@@ -10,8 +10,3 @@ A **Java Swing-based** application to manage student grades, calculate percentag
 - ✅ **Load & Save Data** – Persist data across sessions using file storage.  
 - ✅ **Export Report** – Generate a `Student_Report.txt` file.  
 
-## 🖥️ Installation & Setup  
-1. **Clone the repository:**  
-   ```sh
-   git clone https://github.com/Mxshrajx/Student-Garde-System.git
-   cd Student-Garde-System
